@@ -1,4 +1,4 @@
-# 📊 AI-Powered Spend Classifier
+# AI-Powered Spend Classifier
 
 ## Overview
 Procurement teams often struggle with messy data where purchase descriptions (e.g., "UBER *TRIP 829") aren't categorized. This project uses Machine Learning to automatically classify spend data into categories (IT, Travel, Marketing, etc.).
